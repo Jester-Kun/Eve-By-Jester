@@ -1,15 +1,15 @@
 <p align="center">
-<a href="https://github.com/FantoX001/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+<a href="https://github.com/Jester-Kun/Eve-By-Jester">
+    <img src="https://images2.alphacoders.com/122/1223350.jpg">
   </a>
 
-<h1 align="center"> Atlas MD
+<h1 align="center"> 𝓔𝓥𝓐 𝖇𝐲 𝓙𝓔𝓢𝓣𝓔𝓡
 </h1>
 
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX001">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Umm... She Says "Wht U Staring At You Asshole Get The Fuck Outta here already.                -Warm Regards 𝓔𝓥𝓐 ♥  " to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> Atlas MD - U R a Effin Douchebag.
 </h4>
 
 <br>
