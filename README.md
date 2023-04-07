@@ -46,7 +46,7 @@ Umm... She Says "Wht U Staring At You Asshole Get The Fuck Outta here already.  
 ---
  <br>
  
- # 🧩 Deploy Atlas
+ # 🧩 Deploy Shit
      
 <details close>
 <summary>Click to choose your favourite platform to Deploy</summary>
@@ -208,7 +208,7 @@ Umm... She Says "Wht U Staring At You Asshole Get The Fuck Outta here already.  
 
     
     
-# 📑 Atlas Deploy and Hosting guide
+# 📑 Shit Deploy and Hosting guide
 
 <details close>
 <summary>Click to read Deploy Manual</summary>    
@@ -452,7 +452,7 @@ npm start
       
 <br>
       
-# 💫 Dependencies of Atlas:
+# 💫 Dependencies of shi:
 
 <br>
 
