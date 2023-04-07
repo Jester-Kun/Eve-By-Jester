@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center"> 
-Umm... She Says "Wht U Staring At You Asshole Get The Fuck Outta here already.                -Warm Regards 𝓔𝓥𝓐 ♥  " to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Umm... She Says "Wht U Staring At You Asshole Get The Fuck Outta here already.                -Warm Regards 𝓔𝓥𝓐 ♥  "  <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - U R a Effin Douchebag.
+<h3 align="center"> 𝓔𝓥𝓐 ♥ - U R a Effin Douchebag.
 </h4>
 
 <br>
